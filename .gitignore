@@ -1,11 +1,5 @@
-.venv/
-venv/
-__pycache__/
-*.pyc
 
-logs/
 target/
 dbt_packages/
-
+logs/
 .env
-.env.*
